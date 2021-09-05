@@ -1,0 +1,10 @@
+Bom dia a todos! tudo bem?
+
+O problema relacionado ao style.css estava que as imagens estão todas correlacionadas estão nas mesmas classes, então
+pode ocorrer das imagens sairem fora do lugar.
+
+Gratço pela atenção, atenciosamente.
+
+Vitor Lucas
+
+Agência Fastway
